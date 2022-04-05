@@ -17,7 +17,7 @@ SO THAT I can plan a trip accordingly
 * [Contact](#contact)
 
 ## Description
-This application helps the users to search for weather information. The user will be able to view daily weather and a 5-day forecast for their city. The user will also be able to click on previous search to get the same information.
+This application helps the users to search for weather information. The user will be able to view daily weather and a 5-day forecast for their city. The user will also be able to click on previous search to get the same information. This application is built on server-side api(open Weather Api), Third-party api(bootstraps, jquery), css, javascript and html.
 
 Link to deployed app on [GitHub Page]()
 
