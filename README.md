@@ -19,7 +19,7 @@ SO THAT I can plan a trip accordingly
 ## Description
 This application helps the users to search for weather information. The user will be able to view daily weather and a 5-day forecast for their city. The user will also be able to click on previous search to get the same information.
 
-Link to deployed app on [GitHub Page]()
+Link to deployed app on [GitHub Page](https://chotansharma.github.io/weather-report/)
 
 
 ## Installation 
@@ -45,7 +45,7 @@ This project is license under MIT
 Made with ❤️ by Chotan Sharma
 
 ## Assets
-![screenshot]()
-
+![screenshot](./assets/images/Screenshot-one.png)
+![screenshot](./assets/images/Screenshot-two.png)
 ## Contact
 Please  feel easy to contact me at chotansharma@yahoo.com. For more of my projects, you are aways welcome to my portfolio at https://github.com/ChotanSharma.
