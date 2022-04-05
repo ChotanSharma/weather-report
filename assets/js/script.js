@@ -94,9 +94,9 @@ var displayCityWeather = function(city, searchTerm) {
     displayCurrentDate.textContent = currentDate.format("(L)");
 
     // weather icon 
-    var displayIcon = document.querySelector("#city-current-icon");
-    var currentIcon = "https://openweathermap.org/img/wn/" + city.weather[0].icon + "@2x.png"
-    displayIcon.setAttribute ("src", currentIcon);
+    //var displayIcon = document.querySelector("#city-current-icon");
+    //var currentIcon = "https://openweathermap.org/img/wn/" + city.weather[0].icon + "@2x.png"
+    //displayIcon.setAttribute ("src", currentIcon);
 
     // temperature 
     var displayTemp = document.querySelector("#temp-input");

@@ -5,9 +5,14 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+.hero {
+    color: rgb(63, 46, 46);
+    font-size: large;
+    font-style:unset;
+}
 .section-title {
     padding-bottom: 15px;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .search {
@@ -35,17 +40,18 @@ ul {
 }
 
 .weather-container {
-    margin: 150px auto;
-    background-color: #fff;
-    padding: 50px 50px;
+    margin: 100px auto;
+    background-color:bisque;
+    padding: 20px 50px;
     border-radius: 10px;
     opacity: 80%;
 }
 
 .card {
-    background-color: #80b1da;
+    background-color: #0f4673;
 }
 
-.btn {
-    background-color: #80b1da;
+.btn:hover{
+    background-color:darkblue;
+    color: whitesmoke;
 }
